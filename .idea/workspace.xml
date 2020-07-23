@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ccd10e-ec9c-4bd6-8aef-05a69da9b2c0" name="Default Changelist" comment="" />
+    <list default="true" id="a7ccd10e-ec9c-4bd6-8aef-05a69da9b2c0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" beforeDir="false" afterPath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +18,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1czpyzjTP0UpjKm8V1uu1mIf2by" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/GET_Request" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -181,6 +190,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="89" key="#Updates" timestamp="1595048372329">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="320" y="89" key="#Updates/0.23.1440.801@0.23.1440.801" timestamp="1595048372329" />
+    <state x="468" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595048618136">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="468" y="286" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.801@0.23.1440.801" timestamp="1595048618136" />
+    <state x="353" y="26" key="CommitChangelistDialog2" timestamp="1595048906523">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="353" y="26" key="CommitChangelistDialog2/0.23.1440.801@0.23.1440.801" timestamp="1595048906523" />
     <state width="1419" height="204" key="GridCell.Tab.0.bottom" timestamp="1594180800779">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
@@ -201,18 +222,26 @@
     </state>
     <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1594175911349" />
     <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1594180800779" />
-    <state x="229" y="64" key="SettingsEditor" timestamp="1594357330897">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="229" y="64" key="SettingsEditor" timestamp="1595043111305">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="229" y="64" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1593996642509" />
-    <state x="229" y="64" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1593751777580" />
+    <state x="229" y="64" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1595043111305" />
     <state x="229" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1594357330897" />
     <state x="229" y="64" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1593401681130" />
-    <state x="399" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1594769086279">
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1595048762336">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.801@0.23.1440.801" timestamp="1595048762336" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595050109832">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="399" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.798@0.23.1440.798" timestamp="1593990880340" />
-    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1594769086279" />
-    <state x="399" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1594356770797" />
+    <state x="399" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.801@0.23.1440.801" timestamp="1595050109832" />
+    <state x="399" y="257" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1594962142707" />
+    <state x="509" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595048893396">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="509" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.801@0.23.1440.801" timestamp="1595048893396" />
   </component>
 </project>
