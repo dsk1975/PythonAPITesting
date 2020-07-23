@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ccd10e-ec9c-4bd6-8aef-05a69da9b2c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" beforeDir="false" afterPath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
