@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7ccd10e-ec9c-4bd6-8aef-05a69da9b2c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" beforeDir="false" afterPath="$PROJECT_DIR$/BatchFile/AllLibraries.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_AddNewStudent.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_AddNewStudent.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/GET_Request" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -220,11 +221,11 @@
     </state>
     <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1594175911349" />
     <state width="1419" height="204" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1594180800779" />
-    <state x="229" y="64" key="SettingsEditor" timestamp="1595043111305">
+    <state x="229" y="64" key="SettingsEditor" timestamp="1595646393382">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="229" y="64" key="SettingsEditor/0.23.1440.798@0.23.1440.798" timestamp="1593996642509" />
-    <state x="229" y="64" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1595043111305" />
+    <state x="229" y="64" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1595646393382" />
     <state x="229" y="64" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1594357330897" />
     <state x="229" y="64" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1593401681130" />
     <state x="320" y="163" key="Vcs.Push.Dialog.v2" timestamp="1595048762336">
